@@ -91,9 +91,9 @@ If you initialized the database using the `seed.py` script, you can immediately 
     *   Username: `admin` 
     *   Password: `admin123`
 *   **Staff / Guide Access:** 
-    *   Username: `staff_jamie_1` 
+    *   Username: `staff_aarav_1` 
     *   Password: `password123`
 *   **Trekker / User Access:** 
-    *   Username: `trekker_casey_1` 
+    *   Username: `trekker_aditya_1` 
     *   Password: `password123`
 
