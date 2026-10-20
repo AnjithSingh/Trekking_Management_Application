@@ -1,5 +1,5 @@
-# trekking_management_application
-# NomadTrails
+# trekking_management_application(NomadTrails)
+
 *A Comprehensive Role-Based Trekking Management System*
 
 ## Project Overview
@@ -51,8 +51,8 @@ To run NomadTrails on your local machine, ensure you have Python 3 installed, th
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/NomadTrails-App.git
-   cd NomadTrails-App
+   git clone https://github.com/AnjithSingh/Trekking_Management_Application
+   cd Trekking_Management_Application
    ```
 
 2. **Create and activate a virtual environment:**
